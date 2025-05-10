@@ -106,7 +106,7 @@
 ##  <p id="2"> 📜 2. 기능 명세서 </p>
 [![DDD](https://img.shields.io/badge/기능명세서-바로가기-blue?style=for-the-badge)](https://docs.google.com/spreadsheets/d/17qwomkWvUE0Wms9T00Q581KtVsMfvjDZ/edit?rtpof=true&sd=true)
 <details>
-<summary>미리보기(아직 안 넣음)</summary>
+<summary>미리보기</summary>
 <div >
   <img src="https://github.com/user-attachments/assets/c498eef6-022e-4fcc-84a6-74bfc2d0321a" />
 </div>
@@ -115,11 +115,11 @@
 
 
 ##  <p id="3"> 🛢️ 3. 화면 설계서</p>
-[![ERDCLOUD](https://img.shields.io/badge/Figma-바로가기-green?style=for-the-badge)](https://www.erdcloud.com/d/99TuoiE7CtAbEm8F7)
+[![FIGMA](https://img.shields.io/badge/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-red)](https://www.figma.com/design/PJKajEZDcMF3QuDXS3PjpE/Baksal-Project?m=auto&t=abD6t3jT7bhH58ht-6)
 <details>
-<summary>미리보기(아직 안 넣음)</summary>
+<summary>미리보기</summary>
 <div >
-  <img src="https://github.com/user-attachments/assets/3c8cac48-f8ef-4aca-9d08-62d6a3772a8e"/>  
+  <img src="https://github.com/user-attachments/assets/4adce412-643a-4606-86ad-dd032df7c9df"/>  
 </div>
 </details>
 <br><br>
@@ -130,7 +130,70 @@
 <details>
 <summary>미리보기(아직 안 넣음, 그 GIF 넣는 곳)</summary>
 <div >
-  <img src="https://github.com/user-attachments/assets/15dc1101-6471-45cd-b839-598d7ab947bb"/>  
+<h2>회원</h2>
+<h4>로그인<h4>
+
+<h5> 일반 로그인
+<img src="https://github.com/user-attachments/assets/da4c1bb3-2092-442c-8c53-5828e5ea3788"/>
+<h5> 소셜 로그인
+
+<h4>회원 가입</h4>
+<img src="https://github.com/user-attachments/assets/86fc18d9-5e24-4bb6-8c52-f7d2368c289f"/>
+<h4>아이디 찾기</h4>
+<img src="https://github.com/user-attachments/assets/90fb6ef9-d7d1-425e-9ea3-5a1908c6136c"/>
+<h4>비밀번호 찾기</h4>
+<img src="https://github.com/user-attachments/assets/e1aef42d-179c-488b-a001-7abea2ad7ef4"/>
+<h2>마이 페이지</h2>
+
+<h2>관람 정보</h2>
+
+<h2>패키지</h2>
+
+<h2>기념품</h2>
+
+<h2>동행글</h2>
+<h4>동행글 목록 조회</h4>
+
+<h4>동행글 상세 조회</h4>
+
+<h4>동행글 등록</h4>
+
+<h4>동행글 수정</h4>
+
+<h4>동행글 삭제</h4>
+
+<h2>댓글 </h2>
+<h4>댓글 조회</h4>
+
+<h4>댓글 등록</h4>
+
+<h4>댓글 수정</h4>
+
+<h4>댓글 삭제</h4>
+
+<h2>공지사항</h2>
+<h4>공지사항 목록 조회</h4>
+
+<h4>공지사항 상세 조회</h4>
+
+<h4>공지사항 등록</h4>
+
+<h4>공지사항 수정</h4>
+
+<h4>공지사항 삭제</h4>
+
+<h2>대시보드</h2>
+
+<h4>대시보드 화면</h4>
+
+<h4>주문 수</h4>
+
+<h3>운송장</h3>
+<h4>주문내역 조회</h4>
+
+<h5>주문내역 수정</h5>
+<h2>결제</h2>
+<img src="https://github.com/user-attachments/assets/e3bae37b-1b00-4f25-8f80-14d22483fdfc"/>
 </div>
 </details>
 <br><br>
@@ -190,12 +253,10 @@
 
 |이름|                                                                                                                        회고                                                                                                                        |
 |:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|김태환|                                                                                                                                                                                                                                            |
+|김태환| 이번 프로젝트를 통해, 프론트엔드와 백엔드 간의 통신에서 발생한 에러들을 해결하며 많은 것을 배웠습니다. 초기에는 백엔드 응답값이 예상대로 오지 않아 큰 어려움을 겪었지만, 팀원들과의 원활한 소통과 협업을 통해 문제를 해결할 수 있었습니다. 이를 통해 백엔드와 프론트엔드 간의 데이터 흐름을 정확하게 이해하게 되었고, 그동안 개념적으로만 알고 있던 통신(?) 방식들을 실제로 구현해보며 실무 역량을 한층 강화할 수 있었습니다. 이번 경험을 통해 개발자로서의 역량을 높였고, 이후의 프로젝트에서도 자신감을 가지고 임할 수 있을 것 같습니다다.|
 |윤채영|                                                                                                                                                                                                                                            |
-|이승재|  |
+|이승재|이번 프로젝트는 프론트엔드와 백엔드를 함께 경험할 수 있었던 좋은 기회였습니다. 초기에는 Mock 데이터를 기반으로 화면을 구성하며 개발을 시작하였고, 이후 실제 API와 연동하면서 데이터 구조나 응답값 처리에 많은 시행착오를 겪었습니다. 그러나 팀원들과 지속적으로 소통하고 피드백을 주고받으며 문제를 하나씩 해결해 나갔습니다. 각자의 역할을 충실히 수행해주신 팀원들 덕분에 큰 어려움 없이 프로젝트를 마무리할 수 있었고, 협업의 중요성과 개발 역량을 함께 성장시킬 수 있는 뜻깊은 경험이었습니다.|
 |조현승|                                                                   |
 |차명호|                                                                                                                                                                                                                                            |
 |한성경|                                             |
 <br><br>
-
-
